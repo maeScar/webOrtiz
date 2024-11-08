@@ -1,0 +1,34 @@
+header{
+    color: rgb(7, 4, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;  
+}
+
+
+.Sobre{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+ol{
+    color: black;
+    font-size: 100px;
+}
+
+h1{
+    color: rgb(235, 117, 39);
+    font-size: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color:  rgb(235, 117, 39);
+    font-size: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    font-weight: 100;
+    color: blue;
+    
+}
